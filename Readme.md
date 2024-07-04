@@ -23,12 +23,14 @@ Ein einfaches, aber leistungsfähiges Dashboard zur Visualisierung und Analyse I
 ## Installation
 
 1. Klonen Sie das Repository:
+
    ```
    git clone https://github.com/mmuyakwa/Extra-ETF-Portfolio-Dashboard.git
    cd Extra-ETF-Portfolio-Dashboard
    ```
 
 2. Erstellen Sie eine virtuelle Umgebung und aktivieren Sie sie:
+
    ```
    python -m venv .venv
    source .venv/bin/activate  # Für Unix oder MacOS
@@ -36,6 +38,7 @@ Ein einfaches, aber leistungsfähiges Dashboard zur Visualisierung und Analyse I
    ```
 
 3. Installieren Sie die erforderlichen Pakete:
+
    ```
    pip install -r requirements.txt
    ```
@@ -48,6 +51,7 @@ Ein einfaches, aber leistungsfähiges Dashboard zur Visualisierung und Analyse I
 2. Speichern Sie die exportierte CSV-Datei im `data`-Ordner des Projekts.
 
 3. Starten Sie die Anwendung:
+
    ```
    python app.py
    ```
