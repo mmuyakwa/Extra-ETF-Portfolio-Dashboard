@@ -1,0 +1,16 @@
+ISIN,Name,Wertpapiertyp,Anzahl,Kaufpreis,Aktueller Kurs,Aktueller Wert,Währung,Wechselkurs,Region,Land,Sektor,Quote Provider,Portfolioname,Portfolio ID
+IE00BK5BQT80,Global Diversity ETF,ETF,"100,000","95,500","98,750","9875,000",EUR,"1,000",Welt,,,example,Sample-1001,123456
+DE000ABC1234,German Energy AG,Aktie,"50,000","45,200","47,800","2390,000",EUR,"1,000",Europa,Deutschland,Versorger,example,Sample-1001,123456
+US000XYZ7890,Tech Innovations Inc,Aktie,"25,00","180,500","195,250","4881,250",EUR,"1,000",Nordamerika,Vereinigte Staaten (USA),Technologie,example,Sample-1001,123456
+FR000123ABCD,European Consumer Goods,Aktie,"75,000","62,800","65,300","4897,500",EUR,"1,000",Europa,Frankreich,Basiskonsumgüter,example,Sample-1001,123456
+JP9876543210,Asian Electronics Corp,Aktie,"30,00","55,600","58,900","1767,000",EUR,"1,000",Asien,Japan,Technologie,example,Sample-1001,123456
+GB1234567890,UK Financial Services,Aktie,"40,000","78,300","82,100","3284,000",EUR,"1,000",Europa,Vereinigtes Königreich,Finanzen,example,Sample-1001,123456
+CH9876543210,Swiss Healthcare AG,Aktie,"15,000","210,750","225,500","3382,500",EUR,"1,000",Europa,Schweiz,Gesundheitswesen,example,Sample-1001,123456
+ES1234567890,Iberian Renewable Energy,Aktie,"60,000","35,250","37,800","2268,000",EUR,"1,000",Europa,Spanien,Energie,example,Sample-1001,123456
+CA9876543210,North American Resources,Aktie,"20,00","95,400","98,700","1974,000",EUR,"1,000",Nordamerika,Kanada,Grundstoffe,example,Sample-1001,123456
+AU1234567890,Australian Mining Ltd,Aktie,"35,000","42,600","45,900","1606,500",EUR,"1,000",Australien,Australien,Bergbau,example,Sample-1001,123456
+IE00ABCDEFGH,European Small Cap ETF,ETF,"85,000","28,900","30,750","2613,750",EUR,"1,000",Europa,,,example,Sample-1001,123456
+US1234567890,American Aerospace Corp,Aktie,"10,000","375,200","390,500","3905,000",EUR,"1,000",Nordamerika,Vereinigte Staaten (USA),Industrie,example,Sample-1001,123456
+NL9876543210,Dutch Semiconductor,Aktie,"5,000","450,750","475,250","2376,250",EUR,"1,000",Europa,Niederlande,Technologie,example,Sample-1001,123456
+SE1234567890,Nordic Telecom,Aktie,"70,000","15,800","16,900","1183,000",EUR,"1,000",Europa,Schweden,Telekommunikation,example,Sample-1001,123456
+HK9876543210,Hong Kong Finance,Aktie,"100,00","8,900","9,350","935,000",EUR,"1,000",Asien,Hong Kong,Finanzen,example,Sample-1001,123456

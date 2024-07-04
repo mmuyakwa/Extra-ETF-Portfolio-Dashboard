@@ -1,0 +1,7 @@
+python-dotenv
+wheel
+requests
+autopep8
+mkdocs
+flask
+pandas
