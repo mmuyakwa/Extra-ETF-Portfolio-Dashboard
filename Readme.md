@@ -20,7 +20,33 @@ Ein einfaches, aber leistungsfähiges Dashboard zur Visualisierung und Analyse I
 - Datenverarbeitung: Pandas
 - Frontend-Visualisierung: Chart.js
 
-## Installation
+## Verwendung
+
+1. Exportieren Sie Ihr Portfolio von extraETF als CSV-Datei:
+   ![Export auf Extra-ETF](img/Extra-ETF-Export.png)
+
+2. Speichern Sie die exportierte CSV-Datei im `app/data`-Ordner des Projekts.
+
+## Installation mit Docker
+
+Führen Sie die folgenden Schritte aus, um die Anwendung mit Docker zu starten:
+
+1. Klonen Sie das Repository:
+
+   ```
+   git clone https://github.com/mmuyakwa/Extra-ETF-Portfolio-Dashboard.git
+   cd Extra-ETF-Portfolio-Dashboard
+   ```
+
+2. Führen Sie den folgenden Befehl aus, um die Anwendung zu starten:
+
+   ```
+   docker-compose up -d
+   ```
+
+3. Öffnen Sie einen Webbrowser und navigieren Sie zu `http://localhost:5000`.
+
+## Installation ohne Docker
 
 1. Klonen Sie das Repository:
 
@@ -40,23 +66,18 @@ Ein einfaches, aber leistungsfähiges Dashboard zur Visualisierung und Analyse I
 3. Installieren Sie die erforderlichen Pakete:
 
    ```
+   cd app
    pip install -r requirements.txt
    ```
 
-## Verwendung
-
-1. Exportieren Sie Ihr Portfolio von extraETF als CSV-Datei:
-   ![Export auf Extra-ETF](img/Extra-ETF-Export.png)
-
-2. Speichern Sie die exportierte CSV-Datei im `data`-Ordner des Projekts.
-
-3. Starten Sie die Anwendung:
+4. Starten Sie die Anwendung:
 
    ```
+   # Im ´app´-Ordner den Befehl ausführen
    python app.py
    ```
 
-4. Öffnen Sie einen Webbrowser und navigieren Sie zu `http://localhost:5000`.
+5. Öffnen Sie einen Webbrowser und navigieren Sie zu `http://localhost:5000`.
 
 ## CSV-Dateiformat
 

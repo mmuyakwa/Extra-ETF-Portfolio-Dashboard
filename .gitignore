@@ -50,3 +50,5 @@ templates/BACKUP_index.html
 templates/xkdzEHBBWjxqESCoi.html
 BACKUP_app.py
 BACKUP_Readme.md
+app/data/extraETF_Finanzmanager_Aktuelle_Investments_Export_04_07_2024.csv
+app/data/extra*.csv
